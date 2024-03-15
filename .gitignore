@@ -1,0 +1,4 @@
+*.pyc
+*.db
+data/img/*
+!data/img/.gitkeep
